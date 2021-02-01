@@ -1,6 +1,6 @@
 # what-to-watch
 
-It's friday night! You decide to invite some friends over to make it a movie night. And then begins the endless loop of browsing through movies, just to get "Ewww! Not this!". Soon you see a bright light out of the window, thinking may be it's the saviour, but as it turns out, it's the sun :sun:.
+It's friday night! You decide to invite some friends over to make it a movie night. And then begins the endless loop of browsing through movies, just to get "Ewww! Not this!". Soon you see a bright light out of the window, thinking may be it's the saviour, but as it turns out, it's the sun.
 
 Is this how the story goes everytime? Probably not.
 But we all have been there. Consensus just doesn't arrive on time.
@@ -20,3 +20,7 @@ Thus we present to you, **what-to-watch**!
 May be (?) The movie Yay-ed by everyone would be indicator that y'all want to watch it right?
 The app will present an option to everyone again that first common "Yay" is found. You can either confirm, or choose "start over".
 If anyone of you clicks on "start over", its a start-over. And this will probably lead to the same loop, just in a fancier way.
+
+## when will this be ready?
+
+No clue. Barely started. But will keep you guys posted!
